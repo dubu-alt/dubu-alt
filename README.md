@@ -38,7 +38,7 @@
 - `2026-11-10` [README 위젯은 외부 서버가 멈추면 엑박이 된다](https://github.com/dubu-alt/dubu-alt/blob/main/til/github/readme-widget-dependency.md)
 - `2026-11-10` [GitHub Actions 의 cron 시간은 한국 시간이 아니라 UTC 다](https://github.com/dubu-alt/dubu-alt/blob/main/til/github/actions-cron-utc.md)
 
-전체 12개 보기 → [til/](https://github.com/dubu-alt/dubu-alt/tree/main/til)
+전체 13개 보기 → [til/](https://github.com/dubu-alt/dubu-alt/tree/main/til)
 <!-- TIL:END -->
 
 </td>
