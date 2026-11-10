@@ -1,0 +1,4 @@
+# 워크플로에서 옆에 받아 두는 1mo.dev 레포
+_1mo/
+__pycache__/
+.DS_Store
