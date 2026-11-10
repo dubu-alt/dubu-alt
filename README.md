@@ -34,8 +34,11 @@
 <!-- TIL:START -->
 - `2026-11-10` [깃허브 프로필 README는 아이디와 같은 이름의 레포에서 나온다](https://github.com/dubu-alt/dubu-alt/blob/main/til/github/profile-readme.md)
 - `2026-11-10` [README 위젯은 외부 서버가 멈추면 엑박이 된다](https://github.com/dubu-alt/dubu-alt/blob/main/til/github/readme-widget-dependency.md)
+- `2026-11-10` [GitHub Actions 의 cron 시간은 한국 시간이 아니라 UTC 다](https://github.com/dubu-alt/dubu-alt/blob/main/til/github/actions-cron-utc.md)
+- `2026-10-07` [동시 요청이 몰리면 DB 연결이 바닥나서 서버 전체가 30초씩 멈춘다](https://github.com/dubu-alt/dubu-alt/blob/main/til/backend/sqlalchemy-pool-exhaustion.md)
+- `2026-10-07` [FastAPI 에서 500 에러가 나면 CORS 에러처럼 보인다](https://github.com/dubu-alt/dubu-alt/blob/main/til/backend/fastapi-500-cors.md)
 
-전체 2개 보기 → [til/](https://github.com/dubu-alt/dubu-alt/tree/main/til)
+전체 8개 보기 → [til/](https://github.com/dubu-alt/dubu-alt/tree/main/til)
 <!-- TIL:END -->
 
 </td>
