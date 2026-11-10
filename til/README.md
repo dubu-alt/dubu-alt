@@ -1,9 +1,13 @@
 # TIL (Today I Learned)
 
-공부하다 새로 알게 된 것을 짧게 적어 두는 곳이에요. 총 8개.
+공부하다 새로 알게 된 것을 짧게 적어 두는 곳이에요. 총 12개.
 
 ## backend
 
+- `2026-11-10` [sqlite3.connect 는 DB 파일이 없으면 에러 대신 빈 DB 를 새로 만든다](backend/sqlite3-connect-creates-empty-db.md)
+- `2026-11-10` [SQLAlchemy 의 add 는 SQL 을 보내지 않고 commit 때 INSERT 가 나간다](backend/sqlalchemy-add-commit-sql.md)
+- `2026-11-10` [FastAPI 의 RedirectResponse 는 기본값이 307 이라 PRG 에는 303 을 직접 써야 한다](backend/fastapi-redirect-303.md)
+- `2026-11-10` [FastAPI 요청은 라우터 → 서비스 → 저장소를 거쳐 다시 화면으로 돌아온다](backend/fastapi-request-flow.md)
 - `2026-10-07` [동시 요청이 몰리면 DB 연결이 바닥나서 서버 전체가 30초씩 멈춘다](backend/sqlalchemy-pool-exhaustion.md)
 - `2026-10-07` [FastAPI 에서 500 에러가 나면 CORS 에러처럼 보인다](backend/fastapi-500-cors.md)
 
