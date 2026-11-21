@@ -47,11 +47,11 @@
 **1mo.dev 에 새로 정리한 글**
 
 <!-- 1MO:START -->
-- `2026-11-22` [데이터 분석 한눈에 보기](https://1mo.dev/cs/database/data-analysis/00-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EA%B8%B0)
-- `2026-11-22` [NumPy와 Pandas](https://1mo.dev/cs/database/data-analysis/01-numpy%EC%99%80-pandas)
-- `2026-11-22` [EDA와 기술 통계](https://1mo.dev/cs/database/data-analysis/02-eda%EC%99%80-%EA%B8%B0%EC%88%A0-%ED%86%B5%EA%B3%84)
-- `2026-11-22` [결측치와 이상치 처리](https://1mo.dev/cs/database/data-analysis/03-%EA%B2%B0%EC%B8%A1%EC%B9%98%EC%99%80-%EC%9D%B4%EC%83%81%EC%B9%98)
-- `2026-11-22` [피처 엔지니어링](https://1mo.dev/cs/database/data-analysis/04-%ED%94%BC%EC%B2%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
+- `2026-11-22` [AWS 인프라 한눈에 보기 (B3-1)](https://1mo.dev/cloud/aws/00-aws-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EA%B8%B0)
+- `2026-11-22` [VPC와 서브넷](https://1mo.dev/cloud/aws/01-vpc%EC%99%80-%EC%84%9C%EB%B8%8C%EB%84%B7)
+- `2026-11-22` [인터넷 게이트웨이와 라우팅](https://1mo.dev/cloud/aws/02-%EC%9D%B8%ED%84%B0%EB%84%B7-%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4%EC%99%80-%EB%9D%BC%EC%9A%B0%ED%8C%85)
+- `2026-11-22` [보안 그룹과 NACL](https://1mo.dev/cloud/aws/03-%EB%B3%B4%EC%95%88-%EA%B7%B8%EB%A3%B9%EA%B3%BC-nacl)
+- `2026-11-22` [IAM과 최소 권한](https://1mo.dev/cloud/aws/04-iam%EA%B3%BC-%EC%B5%9C%EC%86%8C-%EA%B6%8C%ED%95%9C)
 
 더 보기 → [1mo.dev](https://1mo.dev)
 <!-- 1MO:END -->
