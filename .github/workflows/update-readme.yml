@@ -3,7 +3,9 @@ name: update readme
 
 on:
   schedule:
-    - cron: "30 15 * * *"   # 매일 한국시간 00:30
+    # 1mo.dev 에 글을 고치면 늦어도 1시간 안에 반영되도록 매시간 17분에 돈다
+    # (정각·30분은 GitHub 쪽 대기열이 몰려 몇 시간씩 밀리는 일이 잦다. 바뀐 게 없으면 커밋하지 않음)
+    - cron: "17 * * * *"
   push:
     branches: [main]
     paths: ["til/**", "scripts/**"]   # TIL 을 올리면 바로 갱신
@@ -16,7 +18,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      # TIL 을 '마지막으로 커밋한 시각' 순으로 정렬하려면 이 레포의 전체 기록이 필요하다
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       # 1mo.dev 레포의 커밋 기록을 읽기 위해 전체 기록까지 받아 둔다
       - uses: actions/checkout@v4

@@ -43,8 +43,24 @@ def read_frontmatter(path):
     return meta
 
 
+def last_commit_time(rel):
+    """이 파일이 마지막으로 커밋된 시각(초). 아직 커밋 전인 새 파일은 가장 최근으로 본다."""
+    try:
+        out = subprocess.run(
+            ["git", "log", "-1", "--format=%ct", "--", rel],
+            cwd=ROOT, capture_output=True, text=True, check=True,
+        ).stdout.strip()
+    except (OSError, subprocess.CalledProcessError):
+        out = ""
+    return int(out) if out else 2**62
+
+
 def collect_tils():
-    """til/주제/파일.md 를 모두 읽어서 (날짜, 주제, 제목, 경로) 목록으로 만든다."""
+    """til/주제/파일.md 를 모두 읽어서 (날짜, 주제, 제목, 경로) 목록으로 만든다.
+
+    정렬: 프런트매터 date 가 최근인 순 → 같은 날이면 마지막으로 커밋(추가·수정)한 순.
+    예전에는 같은 날짜끼리 제목 순으로 정렬돼서, 방금 올린 TIL 이 5개 안에 못 들어가는 일이 있었다.
+    """
     items = []
     for dirpath, _, files in os.walk(TIL_DIR):
         for name in files:
@@ -59,8 +75,9 @@ def collect_tils():
                 "topic": "기타" if topic == "." else topic,
                 "title": meta.get("title", name[:-3]),
                 "rel": rel,
+                "mtime": last_commit_time(rel),
             })
-    items.sort(key=lambda x: (x["date"], x["title"]), reverse=True)
+    items.sort(key=lambda x: (x["date"], x["mtime"]), reverse=True)
     return items
 
 

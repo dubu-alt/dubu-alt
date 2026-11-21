@@ -32,11 +32,11 @@
 **오늘 배운 것 (TIL)**
 
 <!-- TIL:START -->
-- `2026-11-10` [깃허브 프로필 README는 아이디와 같은 이름의 레포에서 나온다](https://github.com/dubu-alt/dubu-alt/blob/main/til/github/profile-readme.md)
-- `2026-11-10` [sqlite3.connect 는 DB 파일이 없으면 에러 대신 빈 DB 를 새로 만든다](https://github.com/dubu-alt/dubu-alt/blob/main/til/backend/sqlite3-connect-creates-empty-db.md)
+- `2026-11-10` [FastAPI 게시판을 만들며 스스로 답해 본 질문들](https://github.com/dubu-alt/dubu-alt/blob/main/til/backend/fastapi-board-qna.md)
 - `2026-11-10` [SQLAlchemy 의 add 는 SQL 을 보내지 않고 commit 때 INSERT 가 나간다](https://github.com/dubu-alt/dubu-alt/blob/main/til/backend/sqlalchemy-add-commit-sql.md)
-- `2026-11-10` [README 위젯은 외부 서버가 멈추면 엑박이 된다](https://github.com/dubu-alt/dubu-alt/blob/main/til/github/readme-widget-dependency.md)
-- `2026-11-10` [GitHub Actions 의 cron 시간은 한국 시간이 아니라 UTC 다](https://github.com/dubu-alt/dubu-alt/blob/main/til/github/actions-cron-utc.md)
+- `2026-11-10` [sqlite3.connect 는 DB 파일이 없으면 에러 대신 빈 DB 를 새로 만든다](https://github.com/dubu-alt/dubu-alt/blob/main/til/backend/sqlite3-connect-creates-empty-db.md)
+- `2026-11-10` [FastAPI 의 RedirectResponse 는 기본값이 307 이라 PRG 에는 303 을 직접 써야 한다](https://github.com/dubu-alt/dubu-alt/blob/main/til/backend/fastapi-redirect-303.md)
+- `2026-11-10` [FastAPI 요청은 라우터 → 서비스 → 저장소를 거쳐 다시 화면으로 돌아온다](https://github.com/dubu-alt/dubu-alt/blob/main/til/backend/fastapi-request-flow.md)
 
 전체 13개 보기 → [til/](https://github.com/dubu-alt/dubu-alt/tree/main/til)
 <!-- TIL:END -->
@@ -47,11 +47,11 @@
 **1mo.dev 에 새로 정리한 글**
 
 <!-- 1MO:START -->
-- `2026-10-14` [Docker (컨테이너 · 이미지 · 배포)](https://1mo.dev/cloud/03-docker)
-- `2026-10-07` [동적 계획법 (Dynamic Programming)](https://1mo.dev/algorithm/dp/01-%EB%8F%99%EC%A0%81-%EA%B3%84%ED%9A%8D%EB%B2%95)
-- `2026-10-07` [최장 증가 수열 (LIS)](https://1mo.dev/algorithm/dp/02-%EC%B5%9C%EC%9E%A5-%EC%A6%9D%EA%B0%80-%EC%88%98%EC%97%B4)
-- `2026-10-07` [비트마스크 (BitMask)](https://1mo.dev/algorithm/dp/03-%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC)
-- `2026-10-07` [다익스트라 (Dijkstra) 알고리즘](https://1mo.dev/algorithm/graph/01-%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC)
+- `2026-11-22` [데이터 분석 한눈에 보기](https://1mo.dev/cs/database/data-analysis/00-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EA%B8%B0)
+- `2026-11-22` [NumPy와 Pandas](https://1mo.dev/cs/database/data-analysis/01-numpy%EC%99%80-pandas)
+- `2026-11-22` [EDA와 기술 통계](https://1mo.dev/cs/database/data-analysis/02-eda%EC%99%80-%EA%B8%B0%EC%88%A0-%ED%86%B5%EA%B3%84)
+- `2026-11-22` [결측치와 이상치 처리](https://1mo.dev/cs/database/data-analysis/03-%EA%B2%B0%EC%B8%A1%EC%B9%98%EC%99%80-%EC%9D%B4%EC%83%81%EC%B9%98)
+- `2026-11-22` [피처 엔지니어링](https://1mo.dev/cs/database/data-analysis/04-%ED%94%BC%EC%B2%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
 
 더 보기 → [1mo.dev](https://1mo.dev)
 <!-- 1MO:END -->
@@ -60,7 +60,7 @@
 </tr>
 </table>
 
-<sub>매일 자정 GitHub Actions 가 자동으로 갱신해요.</sub>
+<sub>1시간마다 GitHub Actions 가 자동으로 갱신해요.</sub>
 
 <br/>
 
