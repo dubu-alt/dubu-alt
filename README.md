@@ -47,11 +47,11 @@
 **1mo.dev 에 새로 정리한 글**
 
 <!-- 1MO:START -->
-- `2026-11-22` [AWS 인프라 한눈에 보기 (B3-1)](https://1mo.dev/cloud/aws/00-aws-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EA%B8%B0)
-- `2026-11-22` [VPC와 서브넷](https://1mo.dev/cloud/aws/01-vpc%EC%99%80-%EC%84%9C%EB%B8%8C%EB%84%B7)
-- `2026-11-22` [인터넷 게이트웨이와 라우팅](https://1mo.dev/cloud/aws/02-%EC%9D%B8%ED%84%B0%EB%84%B7-%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4%EC%99%80-%EB%9D%BC%EC%9A%B0%ED%8C%85)
-- `2026-11-22` [보안 그룹과 NACL](https://1mo.dev/cloud/aws/03-%EB%B3%B4%EC%95%88-%EA%B7%B8%EB%A3%B9%EA%B3%BC-nacl)
-- `2026-11-22` [IAM과 최소 권한](https://1mo.dev/cloud/aws/04-iam%EA%B3%BC-%EC%B5%9C%EC%86%8C-%EA%B6%8C%ED%95%9C)
+- `2026-11-23` [최장 증가 수열 (LIS)](https://1mo.dev/algorithm/dp/02-%EC%B5%9C%EC%9E%A5-%EC%A6%9D%EA%B0%80-%EC%88%98%EC%97%B4)
+- `2026-11-23` [거품 정렬 (Bubble Sort)](https://1mo.dev/algorithm/sort/01-%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC)
+- `2026-11-23` [선택 정렬 (Selection Sort)](https://1mo.dev/algorithm/sort/02-%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC)
+- `2026-11-23` [삽입 정렬 (Insertion Sort)](https://1mo.dev/algorithm/sort/03-%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC)
+- `2026-11-23` [퀵 정렬 (Quick Sort)](https://1mo.dev/algorithm/sort/04-%ED%80%B5-%EC%A0%95%EB%A0%AC)
 
 더 보기 → [1mo.dev](https://1mo.dev)
 <!-- 1MO:END -->
