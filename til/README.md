@@ -23,8 +23,8 @@
 ## github
 
 - `2026-11-10` [GitHub Actions 의 cron 시간은 한국 시간이 아니라 UTC 다](github/actions-cron-utc.md)
-- `2026-11-10` [깃허브 프로필 README는 아이디와 같은 이름의 레포에서 나온다](github/profile-readme.md)
 - `2026-11-10` [README 위젯은 외부 서버가 멈추면 엑박이 된다](github/readme-widget-dependency.md)
+- `2026-11-10` [깃허브 프로필 README는 아이디와 같은 이름의 레포에서 나온다](github/profile-readme.md)
 
 ## macos
 
