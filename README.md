@@ -47,11 +47,11 @@
 **1mo.dev 에 새로 정리한 글**
 
 <!-- 1MO:START -->
-- `2026-11-23` [최장 증가 수열 (LIS)](https://1mo.dev/algorithm/dp/02-%EC%B5%9C%EC%9E%A5-%EC%A6%9D%EA%B0%80-%EC%88%98%EC%97%B4)
-- `2026-11-23` [거품 정렬 (Bubble Sort)](https://1mo.dev/algorithm/sort/01-%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC)
-- `2026-11-23` [선택 정렬 (Selection Sort)](https://1mo.dev/algorithm/sort/02-%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC)
-- `2026-11-23` [삽입 정렬 (Insertion Sort)](https://1mo.dev/algorithm/sort/03-%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC)
-- `2026-11-23` [퀵 정렬 (Quick Sort)](https://1mo.dev/algorithm/sort/04-%ED%80%B5-%EC%A0%95%EB%A0%AC)
+- `2026-11-27` [DAG와 위상 정렬](https://1mo.dev/algorithm/graph/03-dag%EC%99%80-%EC%9C%84%EC%83%81-%EC%A0%95%EB%A0%AC)
+- `2026-11-27` [Docker (컨테이너 · 이미지 · 배포)](https://1mo.dev/cloud/03-docker)
+- `2026-11-27` [VPC와 서브넷](https://1mo.dev/cloud/aws/01-vpc%EC%99%80-%EC%84%9C%EB%B8%8C%EB%84%B7)
+- `2026-11-27` [IAM과 최소 권한](https://1mo.dev/cloud/aws/04-iam%EA%B3%BC-%EC%B5%9C%EC%86%8C-%EA%B6%8C%ED%95%9C)
+- `2026-11-27` [Redis 직접 만들기](https://1mo.dev/cs/data-structure/01-redis)
 
 더 보기 → [1mo.dev](https://1mo.dev)
 <!-- 1MO:END -->
