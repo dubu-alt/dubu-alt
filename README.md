@@ -47,11 +47,11 @@
 **1mo.dev 에 새로 정리한 글**
 
 <!-- 1MO:START -->
-- `2026-11-27` [DAG와 위상 정렬](https://1mo.dev/algorithm/graph/03-dag%EC%99%80-%EC%9C%84%EC%83%81-%EC%A0%95%EB%A0%AC)
-- `2026-11-27` [Docker (컨테이너 · 이미지 · 배포)](https://1mo.dev/cloud/03-docker)
-- `2026-11-27` [VPC와 서브넷](https://1mo.dev/cloud/aws/01-vpc%EC%99%80-%EC%84%9C%EB%B8%8C%EB%84%B7)
-- `2026-11-27` [IAM과 최소 권한](https://1mo.dev/cloud/aws/04-iam%EA%B3%BC-%EC%B5%9C%EC%86%8C-%EA%B6%8C%ED%95%9C)
-- `2026-11-27` [Redis 직접 만들기](https://1mo.dev/cs/data-structure/01-redis)
+- `2026-11-28` [LLM API 활용 한눈에 보기 (B3-2)](https://1mo.dev/cloud/llm-api/00-llm-api-%ED%99%9C%EC%9A%A9-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EA%B8%B0)
+- `2026-11-28` [안전한 API Key 관리 패턴](https://1mo.dev/cloud/llm-api/01-%EC%95%88%EC%A0%84%ED%95%9C-api-key-%EA%B4%80%EB%A6%AC-%ED%8C%A8%ED%84%B4)
+- `2026-11-28` [OpenAI 호환 엔드포인트](https://1mo.dev/cloud/llm-api/02-openai-%ED%98%B8%ED%99%98-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%B6%94%EC%83%81%ED%99%94)
+- `2026-11-28` [LLM 출력 검증과 후처리](https://1mo.dev/cloud/llm-api/03-llm-%EC%B6%9C%EB%A0%A5-%EA%B2%80%EC%A6%9D%EA%B3%BC-%EC%A0%95%EA%B7%9C%ED%99%94)
+- `2026-11-28` [민감정보 마스킹](https://1mo.dev/cloud/llm-api/04-%EB%AF%BC%EA%B0%90%EC%A0%95%EB%B3%B4-%EB%A7%88%EC%8A%A4%ED%82%B9-%EC%84%A4%EA%B3%84)
 
 더 보기 → [1mo.dev](https://1mo.dev)
 <!-- 1MO:END -->
